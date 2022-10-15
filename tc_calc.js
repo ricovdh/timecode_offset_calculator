@@ -29,7 +29,7 @@ function addzero(num) {
   }
 }
 
-// Vraag naar input
+// Ask for user input
 var timecode = prompt('Timecode: ', '00:00:00:00');
 var tcArray = timecode.split(":")
 
